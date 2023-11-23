@@ -129,8 +129,9 @@ function Footer() {
                                 fontSize: "16px",
                                 color: "#FFF"
                             }}>
-                                <p>© 2023 <Link to="" style={{textDecoration: 'none', color: "#FFF"}}>Increments
-                                    Inc </Link>. All rights reserved</p>
+
+                                <p>© 2023 <a href={'https://incrementsinc.com/'} target='_blank'  rel='noopener noreferrer' style={{textDecoration: 'none', color: "#FFF"}}>Increments
+                                    Inc </a>. All rights reserved</p>
                             </div>
                         </div>
                     </div>

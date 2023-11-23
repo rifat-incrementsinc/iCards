@@ -18,7 +18,7 @@ function Home() {
                 <Service/>
                 {/*<HappyClient/>*/}
                 {/*<Interest/>*/}
-                <Contacts/>
+                {/*<Contacts/>*/}
 
                 {/*<RegisterForm/>*/}
                 {/*<LoginForm/>*/}

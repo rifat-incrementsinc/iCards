@@ -156,14 +156,14 @@ function Nav() {
                                 }}>Features</ScrollLink>
                                 {/*<ScrollLink to="testimonials" smooth={true} duration={500} spy={true} exact="true" offset={-70} style={{ textDecoration: "none", fontSize: "16px", fontWeight: "400", color: "#282927" ,cursor:'pointer'}}>Testimonial</ScrollLink>*/}
                                 {/*<ScrollLink to="pricing" smooth={true} duration={500} spy={true} exact="true" offset={-70} style={{ textDecoration: "none", fontSize: "16px", fontWeight: "400", color: "#282927" ,cursor:'pointer'}}>Pricing</ScrollLink>*/}
-                                <ScrollLink to="contact" smooth={true} duration={500} spy={true} exact="true"
-                                            offset={-70} style={{
-                                    textDecoration: "none",
-                                    fontSize: "16px",
-                                    fontWeight: "400",
-                                    color: "#282927",
-                                    cursor: 'pointer'
-                                }}>Contact</ScrollLink>
+                                {/*<ScrollLink to="contact" smooth={true} duration={500} spy={true} exact="true"*/}
+                                {/*            offset={-70} style={{*/}
+                                {/*    textDecoration: "none",*/}
+                                {/*    fontSize: "16px",*/}
+                                {/*    fontWeight: "400",*/}
+                                {/*    color: "#282927",*/}
+                                {/*    cursor: 'pointer'*/}
+                                {/*}}>Contact</ScrollLink>*/}
                                 {/* Download Button */}
                                 <a href='https://ippicardsapp.page.link/zRx8' target='_blank' rel='noopener noreferrer'>
 
